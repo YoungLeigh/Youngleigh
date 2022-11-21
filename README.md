@@ -3,7 +3,7 @@
 </header>
 <body>
   <h3>"To Create, To Challenge, To Make a Difference"</h3>
-  <p>A fullstack developer who loves 3Cs: Coding, Cooking, and <del>Clubbing</del> Cats</p>
+  <p>A fullstack developer who loves the 3Cs: Coding, Cooking, and <del>Clubbing</del> Cats</p>
   
   <ul>
     <li>Bachelor of Business Administration, Global Business Administration, SKKU</li>

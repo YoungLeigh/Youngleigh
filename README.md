@@ -1,6 +1,6 @@
 <header class="header">
   <h1>Young Aude Leigh</h1>
-  <p><b>Fullstack dev</b></p>
+  <p>이윤영/<b>Fullstack dev</b></p>
 </header>
 <body>
   <h3>"To Create, To Challenge, To Make a Difference"</h3>

@@ -4,9 +4,12 @@
 <body>
   <h3>"To Create, To Challenge, To Make a Difference"</h3>
   <p>A fullstack developer who loves the 3Cs: Coding, Cooking, and <del>Clubbing</del> Cats</p>
-  
+  </br>
+  <div>More about me:</div>
   <ul>
-    <li>Bachelor of Business Administration, Global Business Administration, SKKU</li>
+    <li>Undergraduate student at SKKU, Bachelor of Business Administration, Global Business Administration</li>
     <li>Member of COMIT, the best coding club in SKKU</li>
   </ul>
+  </br>
+  <p>I'm always open for networking/job offers. Contact me any time.</b>Email: yoonyoung.lee1218@gmail.com</b>Linkedin: <a href="https://www.linkedin.com/in/young-aude-leigh-4b3225241/">Click here</a></b>Instagram: <a href="https://www.instagram.com/o.o_young00/?hl=en">Click here</a></p>
 </body>

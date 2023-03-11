@@ -2,7 +2,7 @@
   <h1>Young Aude Leigh</h1>
 </header>
 <body>
-  <h3>"To Create, To Challenge, To Make a Difference"</h3>
+  <h3>"To Create, To Challenge, To Change the world to be better."</h3>
   <p>A fullstack developer who loves the 3Cs: Coding, Cooking, and <del>Clubbing</del> Cats</p>
   </br>
   <div>More about me:</div>
